@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+ .form-inline{
+   margin-left: 33%;
+   margin-top: 15px;
+}
+.style{
+    margin-right: 100px;
+}
+.button{
+    margin-left: 33%;
+    margin-top: 10px;
+}
+.form-group{
+    margin-left: 33%;
+}
